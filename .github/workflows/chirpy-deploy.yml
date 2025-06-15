@@ -1,25 +1,25 @@
-name: Deploy Jekyll Chirpy
+name: Deploy Chirpy
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main  # atau master sesuai branch utama repo kamu
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: '3.2'  # atau versi ruby yang direkomendasikan Chirpy
 
       - name: Install dependencies
         run: |
           gem install bundler
-          bundle config set --local path vendor/bundle
+          bundle config set --local path 'vendor/bundle'
           bundle install
 
       - name: Build site
