@@ -1,0 +1,153 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://nexonshoutt.github.io/</id>
+  <title>Rangkuman DAA</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-06-15T12:53:43+00:00</updated>
+  <author>
+    <name>Moch Ichwanul Muslimin Mayang</name>
+    <uri>https://nexonshoutt.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://nexonshoutt.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://nexonshoutt.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Moch Ichwanul Muslimin Mayang </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Ulasan Lengkap Materi Kelompok 10: Algoritma Dijkstra</title>
+    <link href="https://nexonshoutt.github.io/posts/dijkstra-algorithm-detailed/" rel="alternate" type="text/html" title="Ulasan Lengkap Materi Kelompok 10: Algoritma Dijkstra" />
+    <published>2025-06-11T13:49:00+00:00</published>
+  
+    <updated>2025-06-11T13:49:00+00:00</updated>
+  
+    <id>https://nexonshoutt.github.io/posts/dijkstra-algorithm-detailed/</id>
+    <content type="text/html" src="https://nexonshoutt.github.io/posts/dijkstra-algorithm-detailed/" />
+    <author>
+      <name>Moch Ichwanul Muslimin Mayang</name>
+    </author>
+
+  
+    
+    <category term="rangkuman-lengkap" />
+    
+    <category term="algoritma" />
+    
+  
+
+  <summary>Definisi dan Tujuan Algoritma Dijkstra adalah sebuah metode atau algoritma serakah (greedy) yang digunakan untuk menyelesaikan masalah pencarian jalur terpendek (shortest path) dari satu titik ke semua titik lain dalam sebuah graf berbobot.  Graf tersebut terdiri dari sekumpulan simpul (titik) dan sisi (hubungan) yang setiap sisinya memiliki bobot non-negatif yang merepresentasikan jarak, waktu...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Ulasan Lengkap Materi Kelompok 9: Kahn's Algorithm</title>
+    <link href="https://nexonshoutt.github.io/posts/kahns-algorithm-detailed/" rel="alternate" type="text/html" title="Ulasan Lengkap Materi Kelompok 9: Kahn&amp;apos;s Algorithm" />
+    <published>2025-06-11T13:48:00+00:00</published>
+  
+    <updated>2025-06-11T13:48:00+00:00</updated>
+  
+    <id>https://nexonshoutt.github.io/posts/kahns-algorithm-detailed/</id>
+    <content type="text/html" src="https://nexonshoutt.github.io/posts/kahns-algorithm-detailed/" />
+    <author>
+      <name>Moch Ichwanul Muslimin Mayang</name>
+    </author>
+
+  
+    
+    <category term="rangkuman-lengkap" />
+    
+    <category term="algoritma" />
+    
+  
+
+  <summary>Definisi dan Tujuan Algoritma Kahn adalah sebuah algoritma yang digunakan untuk melakukan pengurutan topologis (topological sorting).  Pengurutan topologis adalah proses untuk menentukan urutan linear dari simpul-simpul dalam sebuah Directed Acyclic Graph (DAG).  Dalam urutan ini, untuk setiap sisi yang terarah dari simpul u ke simpul v (u → v), simpul u harus selalu muncul sebelum simpul v.  A...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Ulasan Lengkap Materi Kelompok 8: Depth-First Search (DFS)</title>
+    <link href="https://nexonshoutt.github.io/posts/depth-first-search-detailed/" rel="alternate" type="text/html" title="Ulasan Lengkap Materi Kelompok 8: Depth-First Search (DFS)" />
+    <published>2025-06-11T13:47:00+00:00</published>
+  
+    <updated>2025-06-11T13:47:00+00:00</updated>
+  
+    <id>https://nexonshoutt.github.io/posts/depth-first-search-detailed/</id>
+    <content type="text/html" src="https://nexonshoutt.github.io/posts/depth-first-search-detailed/" />
+    <author>
+      <name>Moch Ichwanul Muslimin Mayang</name>
+    </author>
+
+  
+    
+    <category term="rangkuman-lengkap" />
+    
+    <category term="algoritma" />
+    
+  
+
+  <summary>Definisi dan Prinsip Utama Depth-First Search (DFS) adalah sebuah algoritma pencarian atau penelusuran pada struktur data graf atau pohon.  Berbeda dengan BFS yang melebar, DFS bekerja dengan cara menjelajahi satu cabang sedalam mungkin hingga mencapai titik akhir, sebelum akhirnya mundur (backtrack) untuk melanjutkan penelusuran ke cabang lain yang belum dijelajahi.  Untuk mengelola urutan pen...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Ulasan Lengkap Materi Kelompok 7: Breadth-First Search (BFS)</title>
+    <link href="https://nexonshoutt.github.io/posts/breadth-first-search-detailed/" rel="alternate" type="text/html" title="Ulasan Lengkap Materi Kelompok 7: Breadth-First Search (BFS)" />
+    <published>2025-06-11T13:46:00+00:00</published>
+  
+    <updated>2025-06-11T13:46:00+00:00</updated>
+  
+    <id>https://nexonshoutt.github.io/posts/breadth-first-search-detailed/</id>
+    <content type="text/html" src="https://nexonshoutt.github.io/posts/breadth-first-search-detailed/" />
+    <author>
+      <name>Moch Ichwanul Muslimin Mayang</name>
+    </author>
+
+  
+    
+    <category term="rangkuman-lengkap" />
+    
+    <category term="algoritma" />
+    
+  
+
+  <summary>Pengertian dan Konsep Dasar Breadth-First Search (BFS) adalah sebuah algoritma untuk menjelajahi atau mencari dalam struktur data graf atau pohon.Ciri khas utama dari BFS adalah cara penelusurannya yang melebar atau berdasarkan level.  BFS akan mengeksplorasi semua simpul (node) yang berada pada jarak terdekat dari titik awal terlebih dahulu, sebelum beralih ke simpul-simpul yang berada di leve...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Ulasan Lengkap Materi Kelompok 6: Rat in a Maze</title>
+    <link href="https://nexonshoutt.github.io/posts/rat-in-a-maze-detailed/" rel="alternate" type="text/html" title="Ulasan Lengkap Materi Kelompok 6: Rat in a Maze" />
+    <published>2025-06-11T13:45:00+00:00</published>
+  
+    <updated>2025-06-11T13:45:00+00:00</updated>
+  
+    <id>https://nexonshoutt.github.io/posts/rat-in-a-maze-detailed/</id>
+    <content type="text/html" src="https://nexonshoutt.github.io/posts/rat-in-a-maze-detailed/" />
+    <author>
+      <name>Moch Ichwanul Muslimin Mayang</name>
+    </author>
+
+  
+    
+    <category term="rangkuman-lengkap" />
+    
+    <category term="algoritma" />
+    
+  
+
+  <summary>Definisi Masalah Rat in a Maze adalah sebuah masalah algoritma klasik di mana seekor tikus (rat) harus menemukan sebuah jalur untuk keluar dari sebuah labirin (maze).  Tikus tersebut harus bergerak dari sebuah titik awal (biasanya pojok kiri atas (0,0)) menuju titik tujuan (biasanya pojok kanan bawah (N-1, N-1)).  Labirin itu sendiri direpresentasikan sebagai sebuah matriks atau grid dua dimens...</summary>
+
+  </entry>
+
+</feed>
+
+

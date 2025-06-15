@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 10: Algoritma Dijkstra",
+    "url": "/posts/dijkstra-algorithm-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "shortest-path, graph, dijkstra",
+    "date": "2025-06-11 13:49:00 +0000",
+    "content": "Definisi dan Tujuan Algoritma Dijkstra adalah sebuah metode atau algoritma serakah (greedy) yang digunakan untuk menyelesaikan masalah pencarian jalur terpendek (shortest path) dari satu titik ke s..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 9: Kahn's Algorithm",
+    "url": "/posts/kahns-algorithm-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "topological-sort, graph, dag",
+    "date": "2025-06-11 13:48:00 +0000",
+    "content": "Definisi dan Tujuan Algoritma Kahn adalah sebuah algoritma yang digunakan untuk melakukan pengurutan topologis (topological sorting).  Pengurutan topologis adalah proses untuk menentukan urutan lin..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 8: Depth-First Search (DFS)",
+    "url": "/posts/depth-first-search-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "graph-traversal, dfs, recursive",
+    "date": "2025-06-11 13:47:00 +0000",
+    "content": "Definisi dan Prinsip Utama Depth-First Search (DFS) adalah sebuah algoritma pencarian atau penelusuran pada struktur data graf atau pohon.  Berbeda dengan BFS yang melebar, DFS bekerja dengan cara ..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 7: Breadth-First Search (BFS)",
+    "url": "/posts/breadth-first-search-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "graph-traversal, bfs, shortest-path",
+    "date": "2025-06-11 13:46:00 +0000",
+    "content": "Pengertian dan Konsep Dasar Breadth-First Search (BFS) adalah sebuah algoritma untuk menjelajahi atau mencari dalam struktur data graf atau pohon.Ciri khas utama dari BFS adalah cara penelusurannya..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 6: Rat in a Maze",
+    "url": "/posts/rat-in-a-maze-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "backtracking, pathfinding, maze",
+    "date": "2025-06-11 13:45:00 +0000",
+    "content": "Definisi Masalah Rat in a Maze adalah sebuah masalah algoritma klasik di mana seekor tikus (rat) harus menemukan sebuah jalur untuk keluar dari sebuah labirin (maze).  Tikus tersebut harus bergerak..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 5: Subset Sum Problem",
+    "url": "/posts/subset-sum-problem-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "np-complete, dynamic-programming, recursive",
+    "date": "2025-06-11 13:44:00 +0000",
+    "content": "Definisi dan Konsep Dasar Subset Sum Problem (SSP) adalah sebuah masalah klasik dalam ilmu komputer yang termasuk dalam kategori NP-Complete.  Masalah ini menanyakan: diberikan sebuah himpunan (ata..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 4: N-Queens Problem",
+    "url": "/posts/n-queens-problem-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "backtracking, csp, recursive",
+    "date": "2025-06-11 13:43:00 +0000",
+    "content": "Definisi Masalah N-Queens Problem adalah sebuah permasalahan klasik dalam ilmu komputer dan matematika kombinatorik.  Tantangannya adalah menempatkan N buah ratu catur pada sebuah papan catur beruk..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 3: Huffman Coding",
+    "url": "/posts/huffman-coding-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "kompresi, lossless, huffman-tree",
+    "date": "2025-06-11 13:42:00 +0000",
+    "content": "Pengantar Huffman Coding Huffman Coding adalah sebuah algoritma kompresi data lossless yang sangat terkenal, dikembangkan oleh David A. Huffman pada tahun 1952. Lossless berarti tidak ada data yang..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 2: Fractional Knapsack",
+    "url": "/posts/fractional-knapsack-detailed/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "greedy-algorithm, knapsack, optimization",
+    "date": "2025-06-11 13:41:00 +0000",
+    "content": "Definisi dan Konsep Dasar Knapsack Problem adalah sebuah masalah optimasi di mana kita harus memilih barang-barang dari sekumpulan item yang tersedia untuk dimasukkan ke dalam ransel (knapsack) aga..."
+  },
+  {
+    "title": "Ulasan Lengkap Materi Kelompok 1: Activity Selection Problem",
+    "url": "/posts/activity-selection-problem/",
+    "categories": "rangkuman-lengkap, algoritma",
+    "tags": "greedy-algorithm, optimization, scheduling",
+    "date": "2025-06-11 13:40:00 +0000",
+    "content": "Pendahuluan dan Definisi Masalah Activity Selection Problem adalah sebuah masalah optimasi klasik dalam ilmu komputer. Tujuannya adalah untuk memilih jumlah aktivitas maksimum yang dapat dilakukan ..."
+  }
+  
+]
+
